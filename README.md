@@ -19,5 +19,4 @@
 5    vitamincold                       普通   0.59
 6    tonpicon_capsules_"S.D."          良好   0.9
 7    panadol                           良好   0.87
-     專題ppt  https://docs.google.com/presentation/d/1QJq4Kmpqnj436dWV4AZI3RZcyPpg0fO8/edit#slide=id.p1     
-
+     專題ppt https://docs.google.com/presentation/d/1ppincs-CCQI4qIc6Nvc617wx-6Vl-3Kj/edit#slide=id.p1
